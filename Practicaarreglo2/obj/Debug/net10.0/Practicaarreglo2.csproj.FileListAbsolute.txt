@@ -1,0 +1,15 @@
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\bin\Debug\net10.0\Practicaarreglo2.exe
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\bin\Debug\net10.0\Practicaarreglo2.deps.json
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\bin\Debug\net10.0\Practicaarreglo2.runtimeconfig.json
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\bin\Debug\net10.0\Practicaarreglo2.dll
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\bin\Debug\net10.0\Practicaarreglo2.pdb
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.AssemblyInfo.cs
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.sourcelink.json
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.dll
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\refint\Practicaarreglo2.dll
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.pdb
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\Practicaarreglo2.genruntimeconfig.cache
+C:\Users\Marcelo\Downloads\Semana9\Practicaarreglo2\obj\Debug\net10.0\ref\Practicaarreglo2.dll
